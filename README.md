@@ -1,13 +1,13 @@
 # NLP-project
 
 ## Listen to the Generated Music
-1.TRIGRAM
+1.[TRIGRAM](https://soundcloud.com/mahi-dhoni-132311286/trigram?si=2fb98c38e0a543fa991064aa073b6906&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 2.[FIFTYGRAM](https://soundcloud.com/mahi-dhoni-132311286/test-output-fiftygram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 3.[HUNDREDGRAM](https://soundcloud.com/mahi-dhoni-132311286/hundred-gram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-4.LSTM
+4.[LSTM](https://soundcloud.com/mahi-dhoni-132311286/lstm?si=2fb98c38e0a543fa991064aa073b6906&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 
 
