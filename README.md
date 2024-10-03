@@ -2,9 +2,11 @@
 
 ## Listen to the Generated Music
 1.TRIGRAM
-[SoundCloud](https://soundcloud.com/mahi-dhoni-132311286/hundred-gram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-2.FIFTYGRAM
-3.HUNDREDGRAM
+
+2.[FIFTYGRAM](https://soundcloud.com/mahi-dhoni-132311286/test-output-fiftygram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+3.[HUNDREDGRAM](https://soundcloud.com/mahi-dhoni-132311286/hundred-gram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 4.LSTM
 
 
