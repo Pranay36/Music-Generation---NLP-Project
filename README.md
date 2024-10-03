@@ -27,3 +27,12 @@ This project explores the realm of automated music composition using AI, demonst
 - /data: Contains the MIDI recordings used for training the models.
 - /src: Includes Python scripts for model training, evaluation, and MIDI file generation.
 - /output_midi: Generated MIDI files from the models.
+```
+## Results
+Generated MIDI files and pitch-time graphs are
+
+1. TRIGRAM
+![image](https://github.com/Pranay36/Music-Generation---NLP-Project/blob/main/assets/Trigram.png)
+<Br/>
+<Br/>
+<Br/>
