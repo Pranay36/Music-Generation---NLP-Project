@@ -1,5 +1,15 @@
 # NLP-project
 
+## Listen to the Generated Music
+1.TRIGRAM
+[SoundCloud](https://soundcloud.com/mahi-dhoni-132311286/hundred-gram?si=3d0b5bf5cede40ecba22a83acc0ae599&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+2.FIFTYGRAM
+3.HUNDREDGRAM
+4.LSTM
+
+
+
+
 This repository contains the code, dataset, and outputs related to the research project **"Automating the Process of Music Creation: A Study of LSTM and N-Gram Models."** This study focuses on using machine learning techniques, particularly Long Short-Term Memory (LSTM) networks and N-Gram models, to generate music automatically.
 
 ## Abstract
@@ -36,3 +46,25 @@ Generated MIDI files and pitch-time graphs are
 <Br/>
 <Br/>
 <Br/>
+
+2. FIFTYGRAM
+![image](https://github.com/Pranay36/Music-Generation---NLP-Project/blob/main/assets/Fiftygram.png)
+<Br/>
+<Br/>
+<Br/>
+
+
+3. HUNDREDGRAM
+![image](https://github.com/Pranay36/Music-Generation---NLP-Project/blob/main/assets/hundredgram.png)
+<Br/>
+<Br/>
+<Br/>
+
+
+4. LSTM
+![image](https://github.com/Pranay36/Music-Generation---NLP-Project/blob/main/assets/LSTM.png)
+<Br/>
+<Br/>
+<Br/>
+
+
